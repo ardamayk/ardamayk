@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# I'm Arda. I study at Yildiz Technical University in Turkey.
+# Currently im working on school projects about Data Structure and Algorithm with C
 <!--
 **ardamayk/ardamayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
