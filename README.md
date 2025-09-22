@@ -2,14 +2,7 @@ https://git-rainbow.com/ardamayk
 
 
 ## GitHub Stats
-
-![](https://raw.githubusercontent.com/ardamayk/ardamayk/master/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/ardamayk/ardamayk/master/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/ardamayk/ardamayk/master/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/ardamayk/ardamayk/master/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/ardamayk/ardamayk/master/profile-summary-card-output/default/4-productive-time.svg)
-
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ardamayk}&theme={solarized}
 
 ### About Me
 Computer Engineering student passionate about embedded systems and AI. I build robotics and deep‑learning projects using ROS2, Gazebo, and PyTorch.
