@@ -1,8 +1,5 @@
-https://git-rainbow.com/ardamayk
-
 
 ## GitHub Stats
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ardamayk}&theme={solarized}
 
 ### About Me
 Computer Engineering student passionate about embedded systems and AI. I build robotics and deep‑learning projects using ROS2, Gazebo, and PyTorch.
