@@ -85,14 +85,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.18701722143945" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="158.18701722143945" y="0" width="138.60039720302183" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="296.78741442446125" y="0" width="118.5635685943577" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.35098301881897" y="0" width="11.919696183807277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.27067920262624" y="0" width="11.097455524514373" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="438.36813472714067" y="0" width="7.964579893939292" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="446.33271462107996" y="0" width="7.028133864589758" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.3608484856697" y="0" width="6.639151514330324" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.59524533860156" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="158.59524533860156" y="0" width="138.11962276563065" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="296.7148681042322" y="0" width="118.79099258054144" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.5058606847737" y="0" width="11.878349367042752" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.38421005181647" y="0" width="11.05896088060324" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="438.44317093241966" y="0" width="7.936952509784275" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="446.3801234422039" y="0" width="7.00375480671658" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.3838782489205" y="0" width="6.616121751079492" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -160,7 +160,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4100</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4101</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -178,7 +178,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2138</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2139</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -197,7 +197,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 18:52:00 (timezone UTC) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 3 Nov 2026, 23:49:05 (timezone UTC) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
